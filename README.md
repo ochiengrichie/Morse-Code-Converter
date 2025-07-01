@@ -2,7 +2,7 @@
 
 A clean and simple Python CLI tool that encodes and decodes Morse code. Supports both text input and file-based conversion. Built to help users convert messages securely and quickly via the command line.
 
-![CLI Demo](screenshot.png)
+![CLI Demo](Screenshot.png)
 
 ---
 
